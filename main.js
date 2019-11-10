@@ -17,7 +17,7 @@ function createWindow () {
   })
 
   // and load the index.html of the app.
-  win.loadURL('https://domodlynch.herokuapp.com/maker')
+  win.loadURL('https://tremor-host.herokuapp.com')
 
   // Open the DevTools.
   win.webContents.openDevTools()
