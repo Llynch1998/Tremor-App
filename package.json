@@ -1,0 +1,15 @@
+{
+  "name": "tremor",
+  "version": "1.0.0",
+  "description": "Gonna make that cool real time chat app",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "electron ./main.js"
+  },
+  "author": "Wyatt Lynch",
+  "license": "UNLICENSED",
+  "devDependencies": {
+    "electron": "^7.0.0"
+  }
+}
