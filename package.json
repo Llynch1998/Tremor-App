@@ -11,5 +11,8 @@
   "license": "UNLICENSED",
   "devDependencies": {
     "electron": "^7.0.0"
+  },
+  "dependencies": {
+    "jquery": "^3.4.1"
   }
 }
